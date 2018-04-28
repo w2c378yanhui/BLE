@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="no.nordicsemi.android:log-2.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/log-2.1.1.aar/5725d7dd8293e4403eb8f1a15a5cd788/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/log-2.1.1.aar/5725d7dd8293e4403eb8f1a15a5cd788/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.nordicsemi.android/log/2.1.1/48e5f153f13506a6931e6c25b59ca5616aa1d563/log-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
